@@ -15,5 +15,5 @@
 | Farid Adrian | Pengujian blackbox, Bab 5 dan 6, README, penggabungan dokumen |
 
 ## Tautan
-- Desain Figma: https://www.figma.com/design/2qzoVd9BzkQngTaLScgauG/Untitled?node-id=0-1&t=3d0CqEzzajjYlEL7-1
+- Desain Figma: https://www.figma.com/design/2qzoVd9BzkQngTaLScgauG/Untitled?node-id=0-1&t=6jpnyEkMUJ6I2efi-1
 - Laporan lengkap: lihat folder `docs/`
